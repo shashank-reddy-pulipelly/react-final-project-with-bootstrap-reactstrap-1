@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f033d11eb947487649baa43815fae4b",
+    "revision": "e601c7b43a74e4841071c14c4b8da07d",
     "url": "/react-final-project-with-bootstrap-reactstrap/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-final-project-with-bootstrap-reactstrap/static/css/2.b3717b2c.chunk.css"
   },
   {
-    "revision": "03406c63eaf97ac13725",
+    "revision": "cc3b41a95a886a528d5d",
     "url": "/react-final-project-with-bootstrap-reactstrap/static/css/main.cefeeae2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-final-project-with-bootstrap-reactstrap/static/js/2.68a67834.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03406c63eaf97ac13725",
-    "url": "/react-final-project-with-bootstrap-reactstrap/static/js/main.4a12d8ba.chunk.js"
+    "revision": "cc3b41a95a886a528d5d",
+    "url": "/react-final-project-with-bootstrap-reactstrap/static/js/main.fc8f8ace.chunk.js"
   },
   {
     "revision": "35f461d91cd4e755e905",
