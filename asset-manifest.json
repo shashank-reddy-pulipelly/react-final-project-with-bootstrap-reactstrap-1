@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-final-project-with-bootstrap-reactstrap/static/css/main.37f5dac3.chunk.css",
-    "main.js": "/react-final-project-with-bootstrap-reactstrap/static/js/main.67b3ba3d.chunk.js",
-    "main.js.map": "/react-final-project-with-bootstrap-reactstrap/static/js/main.67b3ba3d.chunk.js.map",
+    "main.css": "/react-final-project-with-bootstrap-reactstrap/static/css/main.5182d83f.chunk.css",
+    "main.js": "/react-final-project-with-bootstrap-reactstrap/static/js/main.6949999a.chunk.js",
+    "main.js.map": "/react-final-project-with-bootstrap-reactstrap/static/js/main.6949999a.chunk.js.map",
     "runtime-main.js": "/react-final-project-with-bootstrap-reactstrap/static/js/runtime-main.8546b38b.js",
     "runtime-main.js.map": "/react-final-project-with-bootstrap-reactstrap/static/js/runtime-main.8546b38b.js.map",
     "static/css/2.b3717b2c.chunk.css": "/react-final-project-with-bootstrap-reactstrap/static/css/2.b3717b2c.chunk.css",
     "static/js/2.ca0f0cfe.chunk.js": "/react-final-project-with-bootstrap-reactstrap/static/js/2.ca0f0cfe.chunk.js",
     "static/js/2.ca0f0cfe.chunk.js.map": "/react-final-project-with-bootstrap-reactstrap/static/js/2.ca0f0cfe.chunk.js.map",
     "index.html": "/react-final-project-with-bootstrap-reactstrap/index.html",
-    "precache-manifest.310edc30b053aba1c2b8db466f8e02b4.js": "/react-final-project-with-bootstrap-reactstrap/precache-manifest.310edc30b053aba1c2b8db466f8e02b4.js",
+    "precache-manifest.4b1d957bda33ed27e5002ca31feec803.js": "/react-final-project-with-bootstrap-reactstrap/precache-manifest.4b1d957bda33ed27e5002ca31feec803.js",
     "service-worker.js": "/react-final-project-with-bootstrap-reactstrap/service-worker.js",
     "static/css/2.b3717b2c.chunk.css.map": "/react-final-project-with-bootstrap-reactstrap/static/css/2.b3717b2c.chunk.css.map",
-    "static/css/main.37f5dac3.chunk.css.map": "/react-final-project-with-bootstrap-reactstrap/static/css/main.37f5dac3.chunk.css.map",
+    "static/css/main.5182d83f.chunk.css.map": "/react-final-project-with-bootstrap-reactstrap/static/css/main.5182d83f.chunk.css.map",
     "static/js/2.ca0f0cfe.chunk.js.LICENSE.txt": "/react-final-project-with-bootstrap-reactstrap/static/js/2.ca0f0cfe.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/react-final-project-with-bootstrap-reactstrap/static/media/fontawesome-webfont.fee66e71.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.8546b38b.js",
     "static/css/2.b3717b2c.chunk.css",
     "static/js/2.ca0f0cfe.chunk.js",
-    "static/css/main.37f5dac3.chunk.css",
-    "static/js/main.67b3ba3d.chunk.js"
+    "static/css/main.5182d83f.chunk.css",
+    "static/js/main.6949999a.chunk.js"
   ]
 }
