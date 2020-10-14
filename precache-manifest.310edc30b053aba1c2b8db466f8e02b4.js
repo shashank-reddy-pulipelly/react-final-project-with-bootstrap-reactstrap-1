@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e601c7b43a74e4841071c14c4b8da07d",
+    "revision": "46cd2d3508e2ad8385bb9f3a023494e9",
     "url": "/react-final-project-with-bootstrap-reactstrap/index.html"
   },
   {
-    "revision": "5956d2948cbfa4f9952f",
+    "revision": "8a67e72c35298a6896df",
     "url": "/react-final-project-with-bootstrap-reactstrap/static/css/2.b3717b2c.chunk.css"
   },
   {
-    "revision": "cc3b41a95a886a528d5d",
-    "url": "/react-final-project-with-bootstrap-reactstrap/static/css/main.cefeeae2.chunk.css"
+    "revision": "72000bffecdc62cff8a6",
+    "url": "/react-final-project-with-bootstrap-reactstrap/static/css/main.37f5dac3.chunk.css"
   },
   {
-    "revision": "5956d2948cbfa4f9952f",
-    "url": "/react-final-project-with-bootstrap-reactstrap/static/js/2.68a67834.chunk.js"
+    "revision": "8a67e72c35298a6896df",
+    "url": "/react-final-project-with-bootstrap-reactstrap/static/js/2.ca0f0cfe.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/react-final-project-with-bootstrap-reactstrap/static/js/2.68a67834.chunk.js.LICENSE.txt"
+    "url": "/react-final-project-with-bootstrap-reactstrap/static/js/2.ca0f0cfe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cc3b41a95a886a528d5d",
-    "url": "/react-final-project-with-bootstrap-reactstrap/static/js/main.fc8f8ace.chunk.js"
+    "revision": "72000bffecdc62cff8a6",
+    "url": "/react-final-project-with-bootstrap-reactstrap/static/js/main.67b3ba3d.chunk.js"
   },
   {
     "revision": "35f461d91cd4e755e905",
